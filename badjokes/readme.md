@@ -1,1 +1,1 @@
-# [badjokesAPI]("https://jokes.rishabgangwar1.repl.co")
+# [badjokesAPI](https://jokes.rishabgangwar1.repl.co)
